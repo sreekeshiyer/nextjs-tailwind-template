@@ -1,4 +1,4 @@
-name next_actions
+name: next_actions
 
 on: [push, pull_request]
 
