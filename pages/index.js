@@ -8,7 +8,7 @@ export default function Home() {
         <h1 className="text-[3rem]">
           Welcome to{" "}
           <a
-            className="hover:underline focus:underline active:underline text-[#0070f3]"
+            className="text-[#0070f3] hover:underline focus:underline active:underline"
             href="https://nextjs.org"
           >
             Next.js!
