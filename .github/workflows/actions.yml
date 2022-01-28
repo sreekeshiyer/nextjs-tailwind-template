@@ -31,7 +31,7 @@ jobs:
         run: npm ci
 
       - name: Run lint
-        run: npm run lint && npm run style:prettier
+        run: npm run lint
   Prettier:
     runs-on: ${{ matrix.os }}
 
