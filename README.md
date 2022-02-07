@@ -5,7 +5,7 @@ This is a custom [Next.js](https://nextjs.org/) template configured with Tailwin
 Clone this repository:
 
 ```bash
-git clone
+git clone https://github.com/sreekeshiyer/nextjs-tailwind-template.git
 ```
 
 ### Install all node modules.
