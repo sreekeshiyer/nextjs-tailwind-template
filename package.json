@@ -5,7 +5,7 @@
     "dev": "next dev",
     "build": "next build",
     "static-build": "next build && next export",
-    "start": "next start",
+    "start": "next build && next start",
     "lint": "next lint",
     "style:prettier": "prettier --check \"**/*.{js,jsx,ts,tsx}\"",
     "make-pretty": "prettier --write \"**/*.{js,jsx,ts,tsx}\""
